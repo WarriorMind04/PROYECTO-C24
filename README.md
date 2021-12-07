@@ -1,2 +1,2 @@
-# PROYECTO-C24
-PROYECTO CLASE 24 JMGJ
+# Geologist
+Geologist Project
